@@ -44,8 +44,8 @@ de pagos, montos facturados y montos pagados durante 6 meses.
 3. Subir el archivo CSV al entorno de Colab
 4. Ejecutar las celdas en orden
 
-## Autor
+## Autores
 
-Tomas - UCA, Ciencia de Datos 2026
-Juanma - UCA, Ciencia de Datos 2026
-Fransisco - UCA, Ciencia de Datos 2026
+Tomas Playa - UCA, Ciencia de Datos 2026
+Juanma Rodon - UCA, Ciencia de Datos 2026
+Fransisco Leonori - UCA, Ciencia de Datos 2026
